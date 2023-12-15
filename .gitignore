@@ -1,0 +1,4 @@
+data/
+weights.pth
+.venv/
+__pycache__/
